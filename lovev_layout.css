@@ -1,0 +1,69 @@
+@charset "utf-8";
+
+
+
+
+
+
+/* Main Structure Style */
+
+html{
+	background-color: hsl(276, 0.98%, 0.44%);
+}
+
+
+body {
+	width: 88.2%;
+	max-width: 800px;
+	padding-left: 0.9%;
+	padding-right: 0.9%;
+	margin: auto;
+	clear: none;
+	float: none;
+	margin-left: auto;
+	background-color: white;
+}
+/* Heading Styles */
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+
+/* Navigation list styles */
+
+<style>
+	li {
+	display: inline;
+	}
+  
+
+
+/* Article Styles */
+
+
+
+
+
+
+/* Footer styles */   
+
+
+
+
+
+
+
+/* ===============================
+   Mobile Styles: 0px to 640px 
+   ===============================
+*/
+
+
+/* =============================================
+   Tablet and Desktop Styles: greater than 640px
+   =============================================
+*/
+
+
